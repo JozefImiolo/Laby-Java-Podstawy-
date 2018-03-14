@@ -1,0 +1,5 @@
+# ignore #
+*.class
+/bin/
+/.settings/
+*.txt

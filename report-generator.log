@@ -1,0 +1,16 @@
+2018-03-06 06:52:27,023 INFO  [main] Lab3.Listy (Listy.java:20) - Size: 0
+2018-03-06 06:52:27,239 INFO  [main] Lab3.Listy (Listy.java:24) - Size: 10000000
+2018-03-06 06:52:27,240 INFO  [main] Lab3.Listy (Listy.java:26) - ArrayList : 0.227 [s]
+2018-03-06 06:52:27,241 INFO  [main] Lab3.Listy (Listy.java:30) - Size: 10000000
+2018-03-06 06:52:57,208 INFO  [main] Lab3.Listy (Listy.java:34) - Size: 9990000
+2018-03-06 06:52:57,208 INFO  [main] Lab3.Listy (Listy.java:36) - ArrayList : 29.967 [s]
+2018-03-06 06:52:57,226 INFO  [main] Lab3.Listy (Listy.java:41) - Size: 0
+2018-03-06 06:53:03,294 INFO  [main] Lab3.Listy (Listy.java:45) - Size: 10000000
+2018-03-06 06:53:03,294 INFO  [main] Lab3.Listy (Listy.java:47) - ArrayList : 6.085 [s]
+2018-03-06 06:53:03,295 INFO  [main] Lab3.Listy (Listy.java:53) - Size: 10000000
+2018-03-06 06:53:32,368 INFO  [main] Lab3.Listy (Listy.java:57) - Size: 9990000
+2018-03-06 06:53:32,368 INFO  [main] Lab3.Listy (Listy.java:59) - ArrayList : 29.073 [s]
+2018-03-06 06:53:32,369 INFO  [main] Lab3.Listy (Listy.java:64) - Size: 0
+2018-03-06 06:53:37,053 INFO  [main] Lab3.Listy (Listy.java:68) - Size: 10000000
+2018-03-06 06:53:37,053 INFO  [main] Lab3.Listy (Listy.java:70) - ArrayList : 4.685 [s]
+2018-03-06 06:53:37,059 INFO  [main] Lab3.Listy (Listy.java:74) - Size: 10000000
